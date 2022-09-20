@@ -1,6 +1,6 @@
 # challenge_1
 
-Horiseon SEO and Social Media landing page. 
+Horiseon SEO and Social Media Marketing landing page. 
 
 Semantic html elements
 
